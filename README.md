@@ -1,6 +1,6 @@
 # Hello everyone, I am Orange-905. 
 
-# Lingjie (Jack) Fang
+# Lingjie Fang (Jack)
 
 lingjiefang999@gmail.com
 
@@ -19,8 +19,6 @@ Scroll down at this Github page to view.
 
 
 # More coding projects/files can be found on:
-
-https://replit.com/@LingjieFang
 
 https://replit.com/@JackFang2
 
