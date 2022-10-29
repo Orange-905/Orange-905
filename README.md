@@ -1,6 +1,6 @@
 # Hello everyone, I am Orange-905. 
 
-# Lingjie Fang (Jack)
+# Lingjie (Jack) Fang
 
 lingjiefang999@gmail.com
 
