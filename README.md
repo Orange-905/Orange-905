@@ -15,8 +15,6 @@ Text-Based RPG (called FirstGame)
 
 Connect 4
 
-Tic Tac Toe
-
 Scroll down at this Github page to view.
 
 
